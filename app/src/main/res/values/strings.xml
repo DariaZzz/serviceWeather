@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">serviceWeather</string>
+    <string name="city1">Чехов</string>
+    <string name="temp">Температура:</string>
+</resources>
